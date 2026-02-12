@@ -1,0 +1,359 @@
+{
+  "meta": {
+    "title": "Casa Schuck | Hotel Boutique en San Miguel de Allende",
+    "description": "Un santuario colonial reimaginado. Nueve habitaciones con personalidad propia en el corazon de San Miguel de Allende. Reserve directo al mejor precio — desayuno incluido."
+  },
+  "nav": {
+    "rooms": "Habitaciones",
+    "story": "Nuestra Historia",
+    "dining": "Desayuno",
+    "weddings": "Bodas",
+    "services": "Servicios",
+    "retreats": "Retiros",
+    "events": "Eventos",
+    "contact": "Contacto",
+    "bookNow": "Reservar",
+    "experience": "Experiencias",
+    "spaConcierge": "Spa y Concierge",
+    "corporateGroups": "Grupos Corporativos"
+  },
+  "hero": {
+    "eyebrow": "San Miguel de Allende, Mexico",
+    "headline": "Encuentra Tu Centro",
+    "subheadline": "Todo San Miguel a tu puerta",
+    "cta": "Ver Disponibilidad",
+    "bookDirect": "Reserve Directo — Mejor Tarifa Garantizada",
+    "breakfastBadge": "Desayuno Incluido"
+  },
+  "story": {
+    "eyebrow": "Nuestra Historia",
+    "headline": "Una Casa Con Muchas Vidas",
+    "intro": "Cada pared de Casa Schuck guarda un capitulo. Desde sus origenes como residencia colonial hasta su renacimiento como el hotel boutique mas intimo de San Miguel, esta casa ha albergado artistas, visionarios y buscadores por mas de 150 anos.",
+    "eras": [
+      {
+        "year": "1871",
+        "title": "El Comienzo",
+        "body": "Construida en 1871, la casa en Garita 3 comenzo su vida como residencia colonial en el corazon de San Miguel de Allende. Gruesos muros de cantera, techos abovedados y un patio central — construida para las generaciones que la habitaran."
+      },
+      {
+        "year": "1971",
+        "title": "La Era Schuck",
+        "body": "Un siglo despues, la familia Schuck trajo nueva energia a la propiedad. Bajo su cuidado, la casa se convirtio en punto de encuentro para escritores, pintores e intelectuales atraidos por la creciente escena creativa de San Miguel."
+      },
+      {
+        "year": "1970s",
+        "title": "Florece una Colonia de Artistas",
+        "body": "Durante los anos 70, San Miguel de Allende se transformo en una colonia internacional de artistas. Casa Schuck estaba en su centro — albergando exposiciones, veladas de salon y el tipo de conversaciones que solo ocurren cuando almas creativas comparten un patio."
+      },
+      {
+        "year": "1978",
+        "title": "El Primer B&B de Lujo en San Miguel",
+        "body": "En 1978, Casa Schuck se convirtio en uno de los primeros bed & breakfast de lujo en San Miguel de Allende — siendo pionera en un nuevo tipo de hospitalidad que era en partes iguales hogar, galeria y santuario."
+      },
+      {
+        "year": "Hoy",
+        "title": "Un Patrimonio Vivo",
+        "body": "Hoy, Casa Schuck continua evolucionando mientras honra cada capitulo que vino antes. Nueve habitaciones, cada una con su propia personalidad. Arte original en las paredes. Un patio que aun reune a los creativos, los curiosos y aquellos que simplemente necesitan un lugar para exhalar."
+      }
+    ],
+    "pullQuote": "No construimos un hotel. Abrimos nuestro hogar.",
+    "cta": "Explorar Nuestras Habitaciones"
+  },
+  "breakfastCallout": {
+    "eyebrow": "Cada Manana, Una Celebracion",
+    "headline": "El Desayuno Siempre Esta Incluido",
+    "description": "Comience cada dia con un festin que honra tanto la herencia mexicana como el confort internacional. Desde autenticos Chilaquiles y Huevos Rancheros hasta clasicos perfectamente preparados — cada plato es elaborado con esmero en nuestra cocina del patio colonial.",
+    "time": "8:30 AM – 10:00 AM diariamente",
+    "earlyCoffee": "Cafe temprano disponible desde las 7:00 AM",
+    "mexicanTitle": "Autentico Mexicano",
+    "mexicanItems": "Chilaquiles Verdes y Rojos, Huevos Rancheros, Fruta Fresca con Chile-Limon, Cafe de Olla",
+    "classicTitle": "Clasicos Favoritos",
+    "classicItems": "Huevos Benedictinos, Pan Frances, Reposteria Recien Horneada, Cafe Organico y Jugos Frescos",
+    "note": "Servido diariamente en el Patio. Opciones para dietas especiales con gusto."
+  },
+  "availability": {
+    "checkIn": "Llegada",
+    "checkOut": "Salida",
+    "guests": "Huespedes",
+    "search": "Ver Disponibilidad",
+    "adult": "Adulto",
+    "adults": "Adultos",
+    "child": "Nino",
+    "children": "Ninos"
+  },
+  "rooms": {
+    "eyebrow": "Habitaciones y Suites",
+    "headline": "Nueve Habitaciones. Nueve Historias.",
+    "description": "Cada habitacion en Casa Schuck tiene su propio nombre, su propio caracter, su propia forma de darle la bienvenida. Arquitectura colonial, arte original y comodidades modernas — entretejidos con intencion.",
+    "fromLabel": "Desde",
+    "perNight": "/ noche",
+    "viewDetails": "Ver Detalles",
+    "bookRoom": "Reservar Esta Habitacion",
+    "amenities": "Comodidades",
+    "maxGuests": "Huespedes Max.",
+    "bedType": "Tipo de Cama",
+    "floor": "Piso",
+    "accessible": "Accesible",
+    "specialNote": "Nota"
+  },
+  "weddings": {
+    "eyebrow": "Bodas y Celebraciones",
+    "headline": "Di Sí en San Miguel",
+    "subHeadline": "Donde el Patrimonio Encuentra la Alta Coordinación.",
+    "description": "Imagine su ceremonia en un patio centenario, bajo la jacaranda, con el sonido de una fuente colonial como su musica. Su recepcion en la azotea, bajo un cielo lleno de estrellas, con la Parroquia iluminada a la distancia.",
+    "pillars": [
+      {
+        "title": "Tu Propiedad. Nuestra Experiencia.",
+        "body": "Nosotros manejamos la logística para que tú disfrutes la gracia. No estás reservando un lugar; estás asegurando un equipo privado dedicado a una sola línea de tiempo: la tuya.",
+        "image": "/images/wedding/ceremony-courtyard.jpg",
+        "alt": "Ceremonia íntima en el patio con arco floral en un venue colonial"
+      },
+      {
+        "title": "El Centro de Tu Celebración.",
+        "body": "El centro logístico para tu círculo íntimo. Coordinamos el movimiento entre la Parroquia y el patio para que tus 60 invitados experimenten cero fricción.",
+        "image": "/images/wedding/callejoneada-street.jpg",
+        "alt": "Callejoneada de boda por las calles coloridas de San Miguel de Allende"
+      },
+      {
+        "title": "Patrimonio Sin Esfuerzo.",
+        "body": "Siglos de historia, cero fricción. Somos el Mejor Aliado del Planner, proporcionando la infraestructura para una coordinación impecable.",
+        "image": "/images/wedding/parroquia-couple.jpg",
+        "alt": "Pareja con la Parroquia y auto vintage en calles empedradas"
+      }
+    ],
+    "logisticsHeadline": "Todo, Resuelto.",
+    "logistics": [
+      { "title": "Los Narradores Visuales", "description": "Equipos de foto y video verificados que conocen cada ángulo de la propiedad y la Parroquia." },
+      { "title": "Movimiento Fluido", "description": "Traslados del aeropuerto y shuttles para invitados coordinados puerta a puerta." },
+      { "title": "La Callejoneada", "description": "Coordinación completa del desfile con mojigangas y música tradicional por las calles empedradas." },
+      { "title": "La Red de Sabores", "description": "Catering en casa y una red curada de artesanos culinarios para cada paladar." },
+      { "title": "Diseño y Flores", "description": "Instalaciones florales de alto impacto creadas por los mejores artesanos de San Miguel." },
+      { "title": "El Ancla del Vecindario", "description": "Concierge para invitados, bloques de villas cercanas y recomendaciones locales para todo tu grupo." }
+    ],
+    "features": [
+      "Ceremonias intimas para hasta 60 invitados",
+      "Renta exclusiva de casa completa disponible",
+      "Patio colonial y terraza en azotea como sedes",
+      "Coordinacion de catering en casa",
+      "Arreglos florales curados por artesanos locales",
+      "Preparacion de la novia en El Royal Suite",
+      "Nueve habitaciones para su cortejo nupcial"
+    ],
+    "cta": "Planear Su Boda",
+    "consultCta": "Reservar una Consulta",
+    "inquiryNote": "Contactenos por WhatsApp o correo para comenzar a planear su celebracion.",
+    "specialistEyebrow": "Especialista en Bodas",
+    "specialistHeadline": "Tu Visión. Nuestra Arquitectura.",
+    "specialistBody": "Contacta a nuestra especialista en bodas de Casa Schuck para explorar todas las opciones, desde rentas privadas hasta paquetes de logística personalizados.",
+    "specialistCta": "Habla con una Especialista"
+  },
+  "services": {
+    "eyebrow": "Servicios Exclusivos",
+    "headline": "Momentos Curados, Disenados Para Usted",
+    "description": "De lo restaurativo a lo aventurero — nuestro equipo de concierge disena experiencias que transforman su estancia en un viaje personal por San Miguel.",
+    "massageTitle": "Masaje en Casa",
+    "massageDescription": "Relajese sin salir del santuario. Terapeutas profesionales vienen a usted — en su habitacion o en el patio, usted elige.",
+    "massagePricing": "60 min: $80 USD | 90 min: $110 USD | 120 min: $140 USD",
+    "massageNote": "Coordinado por concierge. Se recomienda reservar con 24 horas de anticipacion.",
+    "honorBarTitle": "El Bar de Honor",
+    "honorBarDescription": "Sirvase mezcal artesanal, vinos locales y licores artesanales en sistema de honor. Una seleccion curada que celebra lo mejor de las tradiciones destileras de Mexico.",
+    "wineRackTitle": "Vinoteca Curada",
+    "wineRackDescription": "Una seleccion rotativa de vinos mexicanos elegidos a mano por nuestro equipo. Preguntenos por recomendaciones de maridaje.",
+    "toursTitle": "Tours Curados por la Ciudad",
+    "toursDescription": "Descubra los ateliers ocultos, bares de mezcal en azoteas e iglesias centenarias de San Miguel con nuestros guias expertos locales. Itinerarios a pie, culinarios y enfocados en arte.",
+    "dayTripsTitle": "Excursiones y Paseos",
+    "dayTripsDescription": "Aguas termales en La Gruta, las ruinas ancestrales de Canada de la Virgen, la region vinicola en Dolores Hidalgo — viajes inolvidables mas alla de las puertas de la ciudad.",
+    "diningTitle": "Reservaciones VIP en Restaurantes",
+    "diningDescription": "Mesas aseguradas en los restaurantes mas codiciados de San Miguel. Desde cenas gourmet en azoteas hasta mezcalerias intimas — nosotros nos encargamos de los detalles.",
+    "toursExcursionsHeadline": "Tours y Excursiones"
+  },
+  "retreats": {
+    "eyebrow": "Centro de Retiros",
+    "headline": "Tu Santuario Privado",
+    "description": "Retiros transformadores para grupos íntimos. Yoga, círculos y viajes en el corazón de San Miguel.",
+    "yogaTitle": "Elévate con la Azotea",
+    "yogaDescription": "Flujos al amanecer sobre las torres. Rituales al atardecer en el patio. Restauración total, nueve habitaciones a la vez.",
+    "spiritualTitle": "Espacio Sagrado",
+    "spiritualDescription": "Trabajo de respiración, ceremonia y quietud. Guiado por maestros locales en nuestro santuario colonial privado.",
+    "womensTitle": "Sostener el Espacio",
+    "womensDescription": "Nueve habitaciones. Cero ruido. Conexión absoluta. Talleres creativos y círculos íntimos tras muros coloniales.",
+    "inquireCta": "Consultar Sobre Retiros"
+  },
+  "events": {
+    "eyebrow": "Grupos y Celebraciones",
+    "headline": "Su Vision, Nuestro Lienzo",
+    "description": "Desde ceremonias intimas bajo la jacaranda hasta retiros corporativos que inspiran — Casa Schuck se transforma para cada ocasion.",
+    "weddingsTitle": "Bodas",
+    "weddingsDescription": "Elopements y ceremonias intimas en un entorno que se siente como una hacienda privada. Recepciones en azotea, patios con velas y cada detalle manejado con gracia.",
+    "corporateTitle": "Retiros Corporativos",
+    "corporateDescription": "Sesiones de estrategia encuentran el encanto colonial. WiFi rapido, espacios para grupos y excursiones de integracion — productividad envuelta en belleza.",
+    "buyoutTitle": "Renta de Casa Completa",
+    "buyoutDescription": "Nueve habitaciones, toda la propiedad, exclusivamente suya. Ideal para celebraciones importantes, reuniones familiares o experiencias de varios dias disenadas desde cero.",
+    "inquireCta": "Planear Su Evento"
+  },
+  "packages": {
+    "eyebrow": "Paquetes de Temporada",
+    "headline": "Curadurías de Temporada",
+    "description": "Experiencias locales, empaquetadas para mejor valor. Reserve directo para lo mejor de la temporada.",
+    "includedLabel": "Incluido",
+    "bookPackage": "Reservar Este Paquete"
+  },
+  "reviews": {
+    "eyebrow": "Voces de Huespedes",
+    "headline": "Las Historias Que Comparten",
+    "tripAdvisor": "TripAdvisor",
+    "google": "Google Reviews",
+    "readMore": "Leer Todas las Resenas"
+  },
+  "footer": {
+    "tagline": "Un Santuario Colonial, Reimaginado",
+    "address": "Garita 3, Centro, 37700 San Miguel de Allende, Gto., Mexico",
+    "phone": "+52 415 152 0657",
+    "phone2": "+52 415 152 6618",
+    "whatsapp": "+52 415 180 6060",
+    "email": "CasaSchuck@gmail.com",
+    "checkIn": "Check-in: 3:00 PM",
+    "checkOut": "Check-out: 12:00 PM",
+    "breakfast": "Desayuno: 8:30 – 10:00 AM",
+    "openMaps": "Abrir en Mapas",
+    "rightsReserved": "Todos los Derechos Reservados",
+    "privacy": "Politica de Privacidad",
+    "terms": "Terminos y Condiciones",
+    "followUs": "Siguenos",
+    "bookDirect": "Reserve Directo al Mejor Precio",
+    "exploreHeading": "Explorar",
+    "planHeading": "Planea Tu Estancia"
+  },
+  "chatbot": {
+    "title": "Chatear Con Nosotros",
+    "placeholder": "Pregunte sobre habitaciones, servicios o San Miguel...",
+    "greeting": "Bienvenido a Casa Schuck! Estoy aqui para ayudarle a planear su estancia perfecta en San Miguel de Allende. Pregunteme sobre nuestras habitaciones, desayuno, servicios o la ciudad.",
+    "poweredBy": "Impulsado por IA",
+    "whatsappFallback": "Prefiere WhatsApp? Chatee con nuestro equipo directamente.",
+    "send": "Enviar"
+  },
+  "storyBlocks": {
+    "eyebrow": "Tu Estancia, A Tu Manera",
+    "headline": "Tres Formas de Vivir Casa Schuck",
+    "blocks": [
+      {
+        "title": "Bodas y Eventos",
+        "description": "Di si en un patio centenario con la Parroquia como telón de fondo.",
+        "linkText": "Planea Tu Boda",
+        "href": "/weddings",
+        "image": "/images/wedding/ceremony-courtyard.jpg"
+      },
+      {
+        "title": "Bienestar y Retiros",
+        "description": "Yoga en la azotea, trabajo de respiración en el patio, restauración total.",
+        "linkText": "Explorar Retiros",
+        "href": "/retreats",
+        "image": "/images/common/pool.jpg"
+      },
+      {
+        "title": "Corporativo y Grupos",
+        "description": "Sesiones de estrategia con encanto colonial. Nueve habitaciones, exclusivamente tuyas.",
+        "linkText": "Planea Tu Evento",
+        "href": "/groups",
+        "image": "/images/events/corporate.jpg"
+      }
+    ]
+  },
+  "retreatsPage": {
+    "eyebrow": "Retiros y Bienestar",
+    "headline": "El Ancla de Tu Círculo Interior.",
+    "introBody": "Casa Schuck está diseñada para reuniones de alto impacto. Mientras nuestras nueve suites de lujo ofrecen un santuario exclusivo para tu equipo central, nuestras profundas raíces locales nos permiten anclar grupos de hasta 60 personas. Proporcionamos la infraestructura, la logística de \"Acceso A\", y el escenario colonial central para tu experiencia colectiva. Ya sea una fiesta de bodas o una cumbre creativa, tienes el espacio para reunirte y la privacidad para conectar.",
+    "pillars": [
+      {
+        "title": "YOGA",
+        "subHeadline": "Sobre las Torres",
+        "body": "Elévate con San Miguel. Practica al aire libre con vistas de 360 grados de la Parroquia. Desde vinyasa al amanecer hasta meditación bajo las estrellas, nuestra azotea se convierte en tu estudio privado donde la ciudad se encuentra con el cielo.",
+        "image": "/images/retreats/yoga.jpg",
+        "alt": "Práctica de yoga en la terraza de la azotea sobre San Miguel de Allende"
+      },
+      {
+        "title": "BIENESTAR",
+        "subHeadline": "Quietud Ancestral",
+        "body": "Sanación moderna tras muros de 300 años. Participa en ceremonias sagradas y baños de sonido guiados por los practicantes más respetados de la región. Tras gruesos muros de cantera y el ritmo de la fuente del patio, la quietud es el lujo definitivo.",
+        "image": "/images/retreats/sacred-space.avif",
+        "alt": "Espacio de ceremonia sagrada dentro de muros coloniales de cantera"
+      },
+      {
+        "title": "RETIROS",
+        "subHeadline": "La Toma Privada",
+        "body": "Nueve habitaciones. Cero ruido. Conexión absoluta. Casa Schuck es el destino premier para Jornadas de Mujeres, Círculos de Hombres e Intensivos Creativos. Nuestra arquitectura está diseñada específicamente para el movimiento entre el enfoque colectivo y la reflexión personal. Tras estos muros coloniales, no eres solo un huésped; eres el anfitrión de tu propio mundo. Ya sea un retiro de escritura, una cumbre de liderazgo o un reinicio espiritual, una renta de casa completa transforma la propiedad en tu laboratorio privado de crecimiento.",
+        "image": "/images/retreats/hold-space.jpg",
+        "alt": "Espacio privado de retiro en Casa Schuck para intensivos grupales"
+      }
+    ],
+    "logisticsHeadline": "Todo Lo Que Necesitas",
+    "logistics": [
+      { "title": "Azotea Privada", "description": "Espacio al aire libre dedicado para yoga, meditación y sesiones grupales con vistas panorámicas." },
+      { "title": "Coordinador de Retiros", "description": "Un punto de contacto dedicado para manejar cada detalle de tu programa desde la llegada hasta la partida." },
+      { "title": "Catering Personalizado", "description": "Menús veganos, ayurvédicos o mexicanos tradicionales diseñados para apoyar tu programa." },
+      { "title": "Traslados al Aeropuerto", "description": "Transporte terrestre coordinado para todo tu grupo, puerta a puerta." },
+      { "title": "Excursiones Curadas", "description": "Aguas termales, ruinas ancestrales, talleres artesanales — experiencias adicionales fuera de la propiedad." },
+      { "title": "Renta de Casa Completa", "description": "Nueve habitaciones, toda la propiedad, exclusivamente tuya. Privacidad total para inmersión total." }
+    ],
+    "specialistEyebrow": "Planificación de Retiros",
+    "specialistHeadline": "Tu Visión. Nuestro Santuario.",
+    "specialistBody": "Contacta a nuestro coordinador de retiros para diseñar un programa personalizado — desde rentas privadas hasta intensivos de bienestar de varios días.",
+    "specialistCta": "Habla con una Especialista"
+  },
+  "groupsPage": {
+    "eyebrow": "Corporativo y Grupos",
+    "headline": "Su Visión, Nuestro Lienzo",
+    "subHeadline": "Desde sesiones de estrategia hasta celebraciones memorables — Casa Schuck se transforma para cada ocasión.",
+    "pillars": [
+      {
+        "title": "Retiros Corporativos",
+        "body": "Sesiones de estrategia con encanto colonial. WiFi rápido, espacios para grupos en toda la propiedad y excursiones de integración por San Miguel — productividad envuelta en belleza. Tu off-site nunca se vio tan bien.",
+        "image": "/images/events/corporate.jpg",
+        "alt": "Entorno de retiro corporativo en Casa Schuck"
+      },
+      {
+        "title": "Renta de Casa Completa",
+        "body": "Nueve habitaciones, toda la propiedad, exclusivamente suya. Ideal para celebraciones importantes, reuniones familiares o experiencias de varios días diseñadas desde cero. Cada rincón se convierte en tu lienzo.",
+        "image": "/images/events/buyout.jpg",
+        "alt": "Patio colonial preparado para un evento privado"
+      },
+      {
+        "title": "Celebraciones Especiales",
+        "body": "Cumpleaños, aniversarios, reuniones — momentos que merecen más que una reservación de restaurante. El patio, la azotea, el jardín — cada espacio se transforma para la ocasión.",
+        "image": "/images/events/wedding.jpg",
+        "alt": "Evento de celebración en Casa Schuck"
+      }
+    ],
+    "logisticsHeadline": "Infraestructura Completa",
+    "logistics": [
+      { "title": "Coordinador de Eventos", "description": "Un único punto de contacto que maneja proveedores, cronogramas y cada detalle en tu nombre." },
+      { "title": "Red de Catering", "description": "Cocina en casa más una red curada de los mejores caterers y chefs privados de San Miguel." },
+      { "title": "A/V y Conectividad", "description": "WiFi de alta velocidad en toda la propiedad, acceso a proyector y configuraciones flexibles de espacios." },
+      { "title": "Transporte Terrestre", "description": "Traslados al aeropuerto, shuttles para invitados y transporte local coordinado para todo tu grupo." },
+      { "title": "Espacios de Trabajo", "description": "Patio, terraza en azotea, jardín y biblioteca — múltiples zonas para sesiones paralelas." },
+      { "title": "Capacidad y Habitaciones", "description": "Nueve habitaciones únicas con capacidad para hasta 60 invitados. Configuraciones flexibles para cualquier tamaño de grupo." }
+    ],
+    "specialistEyebrow": "Planificación de Eventos",
+    "specialistHeadline": "Construyamos Algo.",
+    "specialistBody": "Contacta a nuestro equipo de eventos para explorar opciones de renta, paquetes corporativos y logística personalizada para tu grupo.",
+    "specialistCta": "Planea Tu Evento"
+  },
+  "crossLinks": {
+    "heading": "También Te Puede Interesar",
+    "weddings": "Ceremonias íntimas y celebraciones en un santuario colonial.",
+    "retreats": "Yoga, trabajo de respiración y experiencias transformadoras para grupos.",
+    "groups": "Retiros corporativos y rentas de casa completa para hasta 60 personas.",
+    "services": "Masaje en casa, tours curados y reservaciones VIP.",
+    "story": "150 años de arte, visión y hospitalidad.",
+    "rooms": "Nueve habitaciones, cada una con su propio nombre y carácter."
+  },
+  "common": {
+    "learnMore": "Saber Mas",
+    "bookNow": "Reservar",
+    "contactUs": "Contactenos",
+    "phone": "Telefono",
+    "email": "Correo",
+    "whatsapp": "WhatsApp",
+    "language": "English"
+  }
+}

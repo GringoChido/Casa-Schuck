@@ -1,0 +1,793 @@
+{
+  "property": {
+    "id": "PROPERTY_ID_PLACEHOLDER",
+    "name": "Casa Schuck Boutique Hotel",
+    "address": "Garita 3, Centro",
+    "city": "San Miguel de Allende",
+    "state": "Guanajuato",
+    "country": "Mexico",
+    "zip": "37700",
+    "phone": "+52 415 152 0657",
+    "phone2": "+52 415 152 6618",
+    "whatsapp": "+52 415 180 6060",
+    "email": "CasaSchuck@gmail.com",
+    "website": "https://casaschuck.com",
+    "currency": "USD",
+    "timezone": "America/Mexico_City",
+    "checkInTime": "15:00",
+    "checkOutTime": "12:00",
+    "breakfastTime": "08:30–10:00",
+    "earlyCoffee": "07:00",
+    "totalRooms": 9
+  },
+  "roomTypes": [
+    {
+      "id": "el-royal-suite",
+      "cloudbedsRoomTypeId": "RT_001",
+      "name": {
+        "en": "El Royal Suite",
+        "es": "El Royal Suite"
+      },
+      "tagline": {
+        "en": "The Crown of Casa Schuck",
+        "es": "La Corona de Casa Schuck"
+      },
+      "description": {
+        "en": "Our most luxurious accommodation spans the entire second-floor wing with a private balcony sun deck overlooking the courtyard. A standalone soaking bathtub, walk-in rain shower, and king bed dressed in premium linens make this the definitive sanctuary at Casa Schuck. Original colonial architecture meets modern indulgence.",
+        "es": "Nuestra habitación más lujosa ocupa toda el ala del segundo piso con un balcón-solárium privado con vista al patio. Una bañera independiente, ducha de lluvia tipo walk-in y cama king vestida con ropa de cama premium hacen de esta el santuario definitivo de Casa Schuck. Arquitectura colonial original encuentra la indulgencia moderna."
+      },
+      "shortDescription": {
+        "en": "Luxurious suite with balcony sun deck, standalone bathtub, and rain shower.",
+        "es": "Suite lujosa con balcón solárium, bañera independiente y ducha de lluvia."
+      },
+      "maxGuests": 2,
+      "bedType": {
+        "en": "King",
+        "es": "King"
+      },
+      "floor": 2,
+      "baseRate": 345,
+      "accessible": false,
+      "hasAC": true,
+      "extraBed": false,
+      "specialNote": null,
+      "amenities": [
+        "king_bed",
+        "balcony_sundeck",
+        "standalone_bathtub",
+        "rain_shower",
+        "ac",
+        "ceiling_fan",
+        "wifi",
+        "ensuite_bathroom",
+        "safe",
+        "daily_housekeeping",
+        "luxury_toiletries",
+        "hair_dryer",
+        "iron",
+        "bottled_water"
+      ],
+      "images": [
+        "/images/rooms/el-royal-suite/hero.jpg",
+        "/images/rooms/el-royal-suite/2.jpg",
+        "/images/rooms/el-royal-suite/3.jpg",
+        "/images/rooms/el-royal-suite/4.jpg",
+        "/images/rooms/el-royal-suite/5.jpg",
+        "/images/rooms/el-royal-suite/6.jpg",
+        "/images/rooms/el-royal-suite/7.jpg",
+        "/images/rooms/el-royal-suite/8.jpg",
+        "/images/rooms/el-royal-suite/9.jpg"
+      ]
+    },
+    {
+      "id": "la-biblioteca-suite",
+      "cloudbedsRoomTypeId": "RT_002",
+      "name": {
+        "en": "La Biblioteca Suite",
+        "es": "La Biblioteca Suite"
+      },
+      "tagline": {
+        "en": "Where Stories Come Alive",
+        "es": "Donde las Historias Cobran Vida"
+      },
+      "description": {
+        "en": "Once the house library, this ground-floor suite retains its literary soul with built-in bookshelves and an intimate Turkish reading corner. French doors open directly onto the garden and pool area. With a king bed plus a twin, it comfortably hosts small families or those who appreciate having extra space to dream.",
+        "es": "Antiguamente la biblioteca de la casa, esta suite en planta baja conserva su alma literaria con libreros empotrados y un íntimo rincón de lectura turco. Las puertas francesas se abren directamente al jardín y la piscina. Con cama king más una twin, alberga cómodamente familias pequeñas o quienes aprecian espacio extra para soñar."
+      },
+      "shortDescription": {
+        "en": "Former library suite with French doors to garden and pool, plus Turkish reading corner.",
+        "es": "Suite ex-biblioteca con puertas francesas al jardín y piscina, más rincón de lectura turco."
+      },
+      "maxGuests": 3,
+      "bedType": {
+        "en": "King + Twin",
+        "es": "King + Individual"
+      },
+      "floor": 1,
+      "baseRate": 305,
+      "accessible": false,
+      "hasAC": true,
+      "extraBed": true,
+      "specialNote": null,
+      "amenities": [
+        "king_bed",
+        "twin_bed",
+        "french_doors",
+        "garden_pool_access",
+        "turkish_corner",
+        "curated_library",
+        "ac",
+        "ceiling_fan",
+        "wifi",
+        "ensuite_bathroom",
+        "safe",
+        "daily_housekeeping",
+        "luxury_toiletries",
+        "hair_dryer",
+        "iron",
+        "bottled_water"
+      ],
+      "images": [
+        "/images/rooms/la-biblioteca-suite/hero.jpg",
+        "/images/rooms/la-biblioteca-suite/2.jpg",
+        "/images/rooms/la-biblioteca-suite/3.jpg",
+        "/images/rooms/la-biblioteca-suite/4.jpg",
+        "/images/rooms/la-biblioteca-suite/5.jpg",
+        "/images/rooms/la-biblioteca-suite/6.jpg",
+        "/images/rooms/la-biblioteca-suite/7.jpg"
+      ]
+    },
+    {
+      "id": "la-jacaranda",
+      "cloudbedsRoomTypeId": "RT_003",
+      "name": {
+        "en": "La Jacaranda Room",
+        "es": "La Jacaranda"
+      },
+      "tagline": {
+        "en": "Art, Fire, and Sky",
+        "es": "Arte, Fuego y Cielo"
+      },
+      "description": {
+        "en": "Named for the jacaranda tree that shades its view, this second-floor room features original art by acclaimed artist Liz McClanahan, a rose cantera stone fireplace, and direct access to the rooftop deck with sweeping views of the city. A true artist's perch above the colonial rooftops.",
+        "es": "Nombrada por el árbol de jacaranda que sombrea su vista, esta habitación de segundo piso presenta arte original de la aclamada artista Liz McClanahan, una chimenea de cantera rosa y acceso directo a la terraza de la azotea con vistas amplias de la ciudad. Un verdadero refugio de artista sobre los techos coloniales."
+      },
+      "shortDescription": {
+        "en": "Art-filled room with rose cantera fireplace and rooftop deck access.",
+        "es": "Habitación artística con chimenea de cantera rosa y acceso a terraza en azotea."
+      },
+      "maxGuests": 2,
+      "bedType": {
+        "en": "King",
+        "es": "King"
+      },
+      "floor": 2,
+      "baseRate": 275,
+      "accessible": false,
+      "hasAC": true,
+      "extraBed": false,
+      "specialNote": {
+        "en": "Features original art by Liz McClanahan",
+        "es": "Presenta arte original de Liz McClanahan"
+      },
+      "amenities": [
+        "king_bed",
+        "cantera_fireplace",
+        "rooftop_access",
+        "original_art",
+        "ac",
+        "ceiling_fan",
+        "wifi",
+        "ensuite_bathroom",
+        "safe",
+        "daily_housekeeping",
+        "luxury_toiletries",
+        "hair_dryer",
+        "iron",
+        "bottled_water"
+      ],
+      "images": [
+        "/images/rooms/la-jacaranda/hero.jpg",
+        "/images/rooms/la-jacaranda/2.jpg",
+        "/images/rooms/la-jacaranda/3.jpg",
+        "/images/rooms/la-jacaranda/4.jpg",
+        "/images/rooms/la-jacaranda/5.jpg",
+        "/images/rooms/la-jacaranda/6.jpg",
+        "/images/rooms/la-jacaranda/7.jpg",
+        "/images/rooms/la-jacaranda/8.jpg"
+      ]
+    },
+    {
+      "id": "la-luna",
+      "cloudbedsRoomTypeId": "RT_004",
+      "name": {
+        "en": "La Luna Room",
+        "es": "La Luna"
+      },
+      "tagline": {
+        "en": "Where the Moon Rises First",
+        "es": "Donde la Luna Sale Primero"
+      },
+      "description": {
+        "en": "Perched on the top floor, La Luna commands sweeping mountain vistas and iconic views of the Parroquia de San Miguel Arcángel. Watch the sky transform from your private vantage point — golden sunsets, star-filled nights, and mornings where the Sierra mountains emerge from the mist. The highest perspective at Casa Schuck.",
+        "es": "Ubicada en el piso superior, La Luna domina amplias vistas de las montañas y vistas icónicas de la Parroquia de San Miguel Arcángel. Observe cómo se transforma el cielo desde su punto de vista privado — atardeceres dorados, noches estrelladas y mañanas donde las montañas de la Sierra emergen de la neblina. La perspectiva más alta de Casa Schuck."
+      },
+      "shortDescription": {
+        "en": "Top-floor room with mountain vistas and Parroquia views.",
+        "es": "Habitación en piso superior con vistas a montañas y la Parroquia."
+      },
+      "maxGuests": 2,
+      "bedType": {
+        "en": "King",
+        "es": "King"
+      },
+      "floor": 3,
+      "baseRate": 295,
+      "accessible": false,
+      "hasAC": true,
+      "extraBed": false,
+      "specialNote": {
+        "en": "Parroquia and mountain views",
+        "es": "Vistas a la Parroquia y las montañas"
+      },
+      "amenities": [
+        "king_bed",
+        "mountain_views",
+        "parroquia_views",
+        "ac",
+        "ceiling_fan",
+        "wifi",
+        "ensuite_bathroom",
+        "safe",
+        "daily_housekeeping",
+        "luxury_toiletries",
+        "hair_dryer",
+        "iron",
+        "bottled_water"
+      ],
+      "images": [
+        "/images/rooms/la-luna/hero.jpg",
+        "/images/rooms/la-luna/2.jpg",
+        "/images/rooms/la-luna/3.jpg",
+        "/images/rooms/la-luna/4.jpg",
+        "/images/rooms/la-luna/5.jpg",
+        "/images/rooms/la-luna/6.jpg",
+        "/images/rooms/la-luna/7.jpg",
+        "/images/rooms/la-luna/8.jpg"
+      ]
+    },
+    {
+      "id": "el-cielo",
+      "cloudbedsRoomTypeId": "RT_005",
+      "name": {
+        "en": "El Cielo Room",
+        "es": "El Cielo"
+      },
+      "tagline": {
+        "en": "Closer to the Stars",
+        "es": "Más Cerca de las Estrellas"
+      },
+      "description": {
+        "en": "On the highest floor of Casa Schuck, El Cielo lives up to its name — 'The Sky.' French beveled glass doors flood the room with light and frame the colonial rooftop landscape. The elevated position captures breezes that cool naturally, creating an airy retreat above the cobblestone streets below.",
+        "es": "En el piso más alto de Casa Schuck, El Cielo hace honor a su nombre. Las puertas de vidrio biselado francés inundan la habitación de luz y enmarcan el paisaje colonial de azoteas. La posición elevada captura brisas que refrescan naturalmente, creando un retiro aireado sobre las calles empedradas."
+      },
+      "shortDescription": {
+        "en": "Highest floor room with French beveled glass doors and natural breezes.",
+        "es": "Habitación en el piso más alto con puertas de vidrio biselado francés y brisas naturales."
+      },
+      "maxGuests": 2,
+      "bedType": {
+        "en": "King",
+        "es": "King"
+      },
+      "floor": 3,
+      "baseRate": 285,
+      "accessible": false,
+      "hasAC": true,
+      "extraBed": false,
+      "specialNote": {
+        "en": "French beveled glass doors",
+        "es": "Puertas de vidrio biselado francés"
+      },
+      "amenities": [
+        "king_bed",
+        "beveled_glass_doors",
+        "ac",
+        "ceiling_fan",
+        "wifi",
+        "ensuite_bathroom",
+        "safe",
+        "daily_housekeeping",
+        "luxury_toiletries",
+        "hair_dryer",
+        "iron",
+        "bottled_water"
+      ],
+      "images": [
+        "/images/rooms/el-cielo/hero.jpg",
+        "/images/rooms/el-cielo/2.jpg",
+        "/images/rooms/el-cielo/3.jpg",
+        "/images/rooms/el-cielo/4.jpg",
+        "/images/rooms/el-cielo/5.jpg",
+        "/images/rooms/el-cielo/6.jpg",
+        "/images/rooms/el-cielo/7.jpg"
+      ]
+    },
+    {
+      "id": "el-sol",
+      "cloudbedsRoomTypeId": "RT_006",
+      "name": {
+        "en": "El Sol Room",
+        "es": "El Sol"
+      },
+      "tagline": {
+        "en": "Warmth in Every Detail",
+        "es": "Calidez en Cada Detalle"
+      },
+      "description": {
+        "en": "A sun-filled second-floor room where a rose cantera stone fireplace anchors the space and the sound of a colonial fountain greets you just outside the door. El Sol offers flexible sleeping with a king bed that can convert to twins — ideal for friends traveling together or couples seeking separate sleeping options. Step outside and the fountain courtyard is yours.",
+        "es": "Una habitación soleada en el segundo piso donde una chimenea de cantera rosa ancla el espacio y el sonido de una fuente colonial te recibe justo afuera de la puerta. El Sol ofrece flexibilidad con una cama king que puede convertirse en dos individuales — ideal para amigos viajando juntos o parejas que buscan opciones de cama separada. Sal afuera y el patio de la fuente es tuyo."
+      },
+      "shortDescription": {
+        "en": "Sunny room with rose cantera fireplace and fountain courtyard.",
+        "es": "Habitación soleada con chimenea de cantera rosa y patio con fuente."
+      },
+      "maxGuests": 2,
+      "bedType": {
+        "en": "King or Twin",
+        "es": "King o Individual"
+      },
+      "floor": 2,
+      "baseRate": 255,
+      "accessible": false,
+      "hasAC": true,
+      "extraBed": false,
+      "specialNote": {
+        "en": "Bed can convert from King to two Twins",
+        "es": "La cama puede convertirse de King a dos individuales"
+      },
+      "amenities": [
+        "king_bed",
+        "convertible_twins",
+        "cantera_fireplace",
+        "fountain_courtyard",
+        "ac",
+        "ceiling_fan",
+        "wifi",
+        "ensuite_bathroom",
+        "safe",
+        "daily_housekeeping",
+        "luxury_toiletries",
+        "hair_dryer",
+        "iron",
+        "bottled_water"
+      ],
+      "images": [
+        "/images/rooms/el-sol/hero.jpg",
+        "/images/rooms/el-sol/2.jpg",
+        "/images/rooms/el-sol/3.jpg",
+        "/images/rooms/el-sol/4.jpg",
+        "/images/rooms/el-sol/5.jpg",
+        "/images/rooms/el-sol/6.jpg",
+        "/images/rooms/el-sol/7.jpg",
+        "/images/rooms/el-sol/8.jpg"
+      ]
+    },
+    {
+      "id": "el-amarillo",
+      "cloudbedsRoomTypeId": "RT_007",
+      "name": {
+        "en": "El Amarillo Room",
+        "es": "El Amarillo"
+      },
+      "tagline": {
+        "en": "Golden Light, Effortless Access",
+        "es": "Luz Dorada, Acceso Sin Esfuerzo"
+      },
+      "description": {
+        "en": "Bathed in warm golden tones, El Amarillo is our fully accessible ground-floor room — no steps from courtyard to bed. Original art by John Beadle adorns the walls, and a recently renovated bathroom features walk-in accessibility. The king bed converts to twins for flexible arrangements. Comfort without compromise, beauty without barriers.",
+        "es": "Bañada en cálidos tonos dorados, El Amarillo es nuestra habitación completamente accesible en planta baja — sin escalones desde el patio hasta la cama. Arte original de John Beadle adorna las paredes, y un baño recientemente renovado cuenta con accesibilidad tipo walk-in. La cama king se convierte en dos individuales para arreglos flexibles. Confort sin compromisos, belleza sin barreras."
+      },
+      "shortDescription": {
+        "en": "Accessible ground-floor room with John Beadle art and renovated bath.",
+        "es": "Habitación accesible en planta baja con arte de John Beadle y baño renovado."
+      },
+      "maxGuests": 2,
+      "bedType": {
+        "en": "King or Twin",
+        "es": "King o Individual"
+      },
+      "floor": 1,
+      "baseRate": 245,
+      "accessible": true,
+      "hasAC": true,
+      "extraBed": false,
+      "specialNote": {
+        "en": "Fully accessible — no steps. Renovated accessible bathroom.",
+        "es": "Completamente accesible — sin escalones. Baño accesible renovado."
+      },
+      "amenities": [
+        "king_bed",
+        "convertible_twins",
+        "accessible",
+        "walk_in_bathroom",
+        "original_art",
+        "ac",
+        "ceiling_fan",
+        "wifi",
+        "ensuite_bathroom",
+        "safe",
+        "daily_housekeeping",
+        "luxury_toiletries",
+        "hair_dryer",
+        "iron",
+        "bottled_water"
+      ],
+      "images": [
+        "/images/rooms/el-amarillo/hero.jpg",
+        "/images/rooms/el-amarillo/2.jpg",
+        "/images/rooms/el-amarillo/3.jpg",
+        "/images/rooms/el-amarillo/4.jpg",
+        "/images/rooms/el-amarillo/5.jpg",
+        "/images/rooms/el-amarillo/6.jpg",
+        "/images/rooms/el-amarillo/7.jpg",
+        "/images/rooms/el-amarillo/8.jpg",
+        "/images/rooms/el-amarillo/9.jpg",
+        "/images/rooms/el-amarillo/10.jpg"
+      ]
+    },
+    {
+      "id": "la-escondida",
+      "cloudbedsRoomTypeId": "RT_008",
+      "name": {
+        "en": "La Escondida Room",
+        "es": "La Escondida"
+      },
+      "tagline": {
+        "en": "A Hidden Garden Retreat",
+        "es": "Un Retiro Oculto en el Jardín"
+      },
+      "description": {
+        "en": "True to its name — 'The Hidden One' — La Escondida is a garden-level retreat tucked away from the main courtyard. Original art by Edward Osman, green colonial tiles, and a king bed plus twin make this a generous space for small families. The garden surroundings create a private, verdant atmosphere that feels worlds away.",
+        "es": "Fiel a su nombre — 'La Escondida' — es un retiro a nivel de jardín apartado del patio principal. Arte original de Edward Osman, azulejos coloniales verdes y una cama king más individual hacen de este un espacio generoso para familias pequeñas. El entorno de jardín crea una atmósfera privada y verde que se siente a mundos de distancia."
+      },
+      "shortDescription": {
+        "en": "Garden-level hideaway with Edward Osman art and green colonial tiles.",
+        "es": "Refugio a nivel de jardín con arte de Edward Osman y azulejos coloniales verdes."
+      },
+      "maxGuests": 3,
+      "bedType": {
+        "en": "King + Twin",
+        "es": "King + Individual"
+      },
+      "floor": 0,
+      "baseRate": 265,
+      "accessible": false,
+      "hasAC": true,
+      "extraBed": true,
+      "specialNote": {
+        "en": "Features original art by Edward Osman",
+        "es": "Presenta arte original de Edward Osman"
+      },
+      "amenities": [
+        "king_bed",
+        "twin_bed",
+        "garden_level",
+        "colonial_tiles",
+        "original_art",
+        "ac",
+        "ceiling_fan",
+        "wifi",
+        "ensuite_bathroom",
+        "safe",
+        "daily_housekeeping",
+        "luxury_toiletries",
+        "hair_dryer",
+        "iron",
+        "bottled_water"
+      ],
+      "images": [
+        "/images/rooms/la-escondida/hero.jpg",
+        "/images/rooms/la-escondida/2.jpg",
+        "/images/rooms/la-escondida/3.jpg",
+        "/images/rooms/la-escondida/4.jpg",
+        "/images/rooms/la-escondida/5.jpg",
+        "/images/rooms/la-escondida/6.jpg",
+        "/images/rooms/la-escondida/7.jpg",
+        "/images/rooms/la-escondida/8.jpg"
+      ]
+    },
+    {
+      "id": "la-vista",
+      "cloudbedsRoomTypeId": "RT_009",
+      "name": {
+        "en": "La Vista Room",
+        "es": "La Vista"
+      },
+      "tagline": {
+        "en": "Mountains at Your Doorstep",
+        "es": "Montañas a Tu Puerta"
+      },
+      "description": {
+        "en": "Fully accessible with no steps, La Vista earns its name with breathtaking mountain views that greet you each morning. The king bed converts to twins for flexibility. Please note: this room features an air cooler rather than traditional AC — perfect for those who appreciate natural airflow in San Miguel's mild climate.",
+        "es": "Completamente accesible sin escalones, La Vista hace honor a su nombre con impresionantes vistas a las montañas que te reciben cada mañana. La cama king se convierte en dos individuales para mayor flexibilidad. Nota: esta habitación cuenta con enfriador de aire en lugar de AC tradicional — perfecto para quienes aprecian el flujo de aire natural en el clima templado de San Miguel."
+      },
+      "shortDescription": {
+        "en": "Accessible room with mountain views and flexible king/twin bed.",
+        "es": "Habitación accesible con vistas a montañas y cama king/individual flexible."
+      },
+      "maxGuests": 2,
+      "bedType": {
+        "en": "King or Twin",
+        "es": "King o Individual"
+      },
+      "floor": 1,
+      "baseRate": 235,
+      "accessible": true,
+      "hasAC": false,
+      "extraBed": false,
+      "specialNote": {
+        "en": "Accessible — no steps. Air Cooler instead of AC.",
+        "es": "Accesible — sin escalones. Enfriador de aire en lugar de AC."
+      },
+      "amenities": [
+        "king_bed",
+        "convertible_twins",
+        "accessible",
+        "mountain_views",
+        "air_cooler",
+        "ceiling_fan",
+        "wifi",
+        "ensuite_bathroom",
+        "safe",
+        "daily_housekeeping",
+        "luxury_toiletries",
+        "hair_dryer",
+        "iron",
+        "bottled_water"
+      ],
+      "images": [
+        "/images/rooms/la-vista/hero.jpg",
+        "/images/rooms/la-vista/2.jpg",
+        "/images/rooms/la-vista/3.jpg",
+        "/images/rooms/la-vista/4.jpg",
+        "/images/rooms/la-vista/5.jpg",
+        "/images/rooms/la-vista/6.jpg",
+        "/images/rooms/la-vista/7.jpg"
+      ]
+    }
+  ],
+  "ratePlans": [
+    {
+      "id": "standard",
+      "name": {
+        "en": "Standard Rate",
+        "es": "Tarifa Estándar"
+      },
+      "description": {
+        "en": "Our best available rate. Full breakfast included daily.",
+        "es": "Nuestra mejor tarifa disponible. Desayuno completo incluido diariamente."
+      },
+      "includes": ["breakfast", "wifi", "daily_housekeeping", "bottled_water"],
+      "cancellationPolicy": {
+        "en": "Free cancellation up to 48 hours before check-in.",
+        "es": "Cancelación gratuita hasta 48 horas antes del check-in."
+      }
+    },
+    {
+      "id": "romance",
+      "name": {
+        "en": "Romance Package",
+        "es": "Paquete Romántico"
+      },
+      "description": {
+        "en": "Celebrate love with champagne, rose petals, and a couples' spa treatment.",
+        "es": "Celebre el amor con champagne, pétalos de rosa y un tratamiento de spa para parejas."
+      },
+      "includes": ["breakfast", "wifi", "daily_housekeeping", "champagne", "rose_petals", "couples_spa"],
+      "premiumPercentage": 25,
+      "cancellationPolicy": {
+        "en": "Free cancellation up to 72 hours before check-in.",
+        "es": "Cancelación gratuita hasta 72 horas antes del check-in."
+      }
+    },
+    {
+      "id": "extended",
+      "name": {
+        "en": "Extended Stay (5+ Nights)",
+        "es": "Estancia Extendida (5+ Noches)"
+      },
+      "description": {
+        "en": "Stay longer, save more. 15% off our standard rate for stays of 5 nights or more.",
+        "es": "Quédese más, ahorre más. 15% de descuento en nuestra tarifa estándar para estancias de 5 noches o más."
+      },
+      "includes": ["breakfast", "wifi", "daily_housekeeping", "late_checkout"],
+      "discountPercentage": 15,
+      "minimumNights": 5,
+      "cancellationPolicy": {
+        "en": "Free cancellation up to 7 days before check-in.",
+        "es": "Cancelación gratuita hasta 7 días antes del check-in."
+      }
+    }
+  ],
+  "seasonalPackages": [
+    {
+      "id": "dia-de-muertos",
+      "name": {
+        "en": "Día de los Muertos Experience",
+        "es": "Experiencia Día de los Muertos"
+      },
+      "description": {
+        "en": "Immerse yourself in Mexico's most sacred celebration. Guided altar-building, cemetery processions, and a private Catrina dinner on the rooftop.",
+        "es": "Sumérgase en la celebración más sagrada de México. Construcción guiada de altares, procesiones al cementerio y una cena privada de Catrina en la azotea."
+      },
+      "dates": {
+        "start": "2026-10-29",
+        "end": "2026-11-03"
+      },
+      "minimumNights": 3,
+      "includes": [
+        "3 nights accommodation",
+        "Daily breakfast",
+        "Guided altar-building workshop",
+        "Cemetery procession with local guide",
+        "Private Catrina dinner on rooftop",
+        "Traditional Ofrenda in your room",
+        "Day of the Dead face painting"
+      ],
+      "startingPrice": 1295,
+      "image": "/images/packages/dia-de-muertos.jpg"
+    },
+    {
+      "id": "holiday-escape",
+      "name": {
+        "en": "Holiday Escape",
+        "es": "Escapada Navideña"
+      },
+      "description": {
+        "en": "Celebrate the season in colonial splendor. Posada processions, midnight mass at the Parroquia, and a Christmas Eve feast under the stars.",
+        "es": "Celebre la temporada en esplendor colonial. Procesiones de posadas, misa de medianoche en la Parroquia y una cena de Nochebuena bajo las estrellas."
+      },
+      "dates": {
+        "start": "2026-12-20",
+        "end": "2027-01-03"
+      },
+      "minimumNights": 4,
+      "includes": [
+        "4 nights accommodation",
+        "Daily breakfast",
+        "Welcome mezcal tasting",
+        "Posada procession experience",
+        "Christmas Eve dinner",
+        "New Year's Eve rooftop celebration",
+        "Spa treatment for two"
+      ],
+      "startingPrice": 1895,
+      "image": "/images/packages/holiday-escape.jpg"
+    },
+    {
+      "id": "spring-renewal",
+      "name": {
+        "en": "Spring Renewal Retreat",
+        "es": "Retiro de Renovación Primaveral"
+      },
+      "description": {
+        "en": "Awaken your senses as San Miguel bursts into bloom. Yoga, spa, and botanical garden tours — spring in its most vibrant form.",
+        "es": "Despierte sus sentidos mientras San Miguel estalla en flor. Yoga, spa y tours de jardines botánicos — la primavera en su forma más vibrante."
+      },
+      "dates": {
+        "start": "2026-03-01",
+        "end": "2026-05-31"
+      },
+      "minimumNights": 3,
+      "includes": [
+        "3 nights accommodation",
+        "Daily breakfast",
+        "Two yoga sessions",
+        "One spa treatment",
+        "Botanical garden tour",
+        "Fresh flower arrangement in room"
+      ],
+      "startingPrice": 995,
+      "image": "/images/packages/spring-renewal.jpg"
+    }
+  ],
+  "amenityLabels": {
+    "en": {
+      "king_bed": "King Bed",
+      "twin_bed": "Twin Bed",
+      "convertible_twins": "Converts to Twin Beds",
+      "balcony_sundeck": "Balcony Sun Deck",
+      "standalone_bathtub": "Standalone Soaking Tub",
+      "rain_shower": "Walk-in Rain Shower",
+      "ac": "Air Conditioning",
+      "air_cooler": "Air Cooler",
+      "ceiling_fan": "Ceiling Fan",
+      "wifi": "High-Speed WiFi",
+      "ensuite_bathroom": "Ensuite Bathroom",
+      "safe": "In-Room Safe",
+      "daily_housekeeping": "Daily Housekeeping",
+      "luxury_toiletries": "Luxury Toiletries",
+      "hair_dryer": "Hair Dryer",
+      "iron": "Iron & Board",
+      "bottled_water": "Complimentary Water",
+      "french_doors": "French Doors",
+      "garden_pool_access": "Garden & Pool Access",
+      "turkish_corner": "Turkish Reading Corner",
+      "curated_library": "Curated Library",
+      "cantera_fireplace": "Rose Cantera Fireplace",
+      "rooftop_access": "Rooftop Deck Access",
+      "original_art": "Original Art Collection",
+      "mountain_views": "Mountain Views",
+      "parroquia_views": "Parroquia Views",
+      "beveled_glass_doors": "French Beveled Glass Doors",
+      "fountain_courtyard": "Fountain Courtyard",
+      "accessible": "Fully Accessible (No Steps)",
+      "walk_in_bathroom": "Walk-in Accessible Bathroom",
+      "garden_level": "Garden Level",
+      "colonial_tiles": "Green Colonial Tiles"
+    },
+    "es": {
+      "king_bed": "Cama King",
+      "twin_bed": "Cama Individual",
+      "convertible_twins": "Convertible a Camas Individuales",
+      "balcony_sundeck": "Balcón Solárium",
+      "standalone_bathtub": "Bañera Independiente",
+      "rain_shower": "Ducha de Lluvia Walk-in",
+      "ac": "Aire Acondicionado",
+      "air_cooler": "Enfriador de Aire",
+      "ceiling_fan": "Ventilador de Techo",
+      "wifi": "WiFi de Alta Velocidad",
+      "ensuite_bathroom": "Baño Privado",
+      "safe": "Caja Fuerte",
+      "daily_housekeeping": "Limpieza Diaria",
+      "luxury_toiletries": "Artículos de Tocador de Lujo",
+      "hair_dryer": "Secador de Cabello",
+      "iron": "Plancha y Tabla",
+      "bottled_water": "Agua de Cortesía",
+      "french_doors": "Puertas Francesas",
+      "garden_pool_access": "Acceso a Jardín y Piscina",
+      "turkish_corner": "Rincón de Lectura Turco",
+      "curated_library": "Biblioteca Curada",
+      "cantera_fireplace": "Chimenea de Cantera Rosa",
+      "rooftop_access": "Acceso a Terraza en Azotea",
+      "original_art": "Colección de Arte Original",
+      "mountain_views": "Vistas a las Montañas",
+      "parroquia_views": "Vistas a la Parroquia",
+      "beveled_glass_doors": "Puertas de Vidrio Biselado Francés",
+      "fountain_courtyard": "Patio con Fuente",
+      "accessible": "Completamente Accesible (Sin Escalones)",
+      "walk_in_bathroom": "Baño Accesible Walk-in",
+      "garden_level": "Nivel de Jardín",
+      "colonial_tiles": "Azulejos Coloniales Verdes"
+    }
+  },
+  "services": {
+    "massage": {
+      "name": { "en": "In-House Massage", "es": "Masaje en Casa" },
+      "options": [
+        { "duration": "60 min", "price": 80 },
+        { "duration": "90 min", "price": 110 },
+        { "duration": "120 min", "price": 140 }
+      ],
+      "note": {
+        "en": "Arranged through concierge. Sessions in your room or the courtyard.",
+        "es": "Coordinado por concierge. Sesiones en su habitación o en el patio."
+      }
+    },
+    "honorBar": {
+      "name": { "en": "Honor Bar", "es": "Bar de Honor" },
+      "description": {
+        "en": "Help yourself to craft mezcal, local wines, and artisan spirits on the honor system.",
+        "es": "Sírvase mezcal artesanal, vinos locales y licores artesanales en sistema de honor."
+      }
+    },
+    "wineRack": {
+      "name": { "en": "Curated Wine Rack", "es": "Vinoteca Curada" },
+      "description": {
+        "en": "A rotating selection of Mexican wines hand-picked by our team.",
+        "es": "Una selección rotativa de vinos mexicanos seleccionados por nuestro equipo."
+      }
+    }
+  }
+}
